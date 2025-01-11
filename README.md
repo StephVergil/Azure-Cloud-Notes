@@ -1,4 +1,4 @@
-# Azure Cloud Notes
+# Azure Cloud Presentation
 
 ## **What is Cloud Computing?**
 Cloud computing is the practice of renting computer resources from a provider instead of owning them. It delivers computing services over the internet on a pay-as-you-go basis, such as:
@@ -88,3 +88,4 @@ Pay only for resources used:
 ---
 
 This concise guide provides a comprehensive summary of Azure cloud services and concepts.
+Link to PowerPoint: [Azure Cloud Presentation](https://github.com/StephVergil/Azure-Cloud_Presentation/blob/main/Azure_Cloud_Presentation.pptx)
